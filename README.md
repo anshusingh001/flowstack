@@ -33,6 +33,5 @@ FlowStack is built around a small set of powerful primitives:
 - Storage: PostgreSQL
 - Caching / State: Redis
 - Messaging: Kafka / Queue-based
-- Observability: Prometheus / OpenTelemetry
 - Frontend (optional): React
 
